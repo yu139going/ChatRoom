@@ -1,0 +1,10 @@
+﻿  Cleaning remote project directory
+  Validating sources
+  Copying sources remotely to '192.168.131.129'
+  Validating architecture
+  Starting remote build
+  Compiling sources:
+  ChatServer.cpp
+  main.cpp
+  Linking objects
+  Server.vcxproj -> D:\代码\CPP Code\服务器集群项目\Server\bin\x64\Debug\Server.out
